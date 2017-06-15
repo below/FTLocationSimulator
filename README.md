@@ -2,6 +2,8 @@
 FTLocationSimulator
 ===================
 
+Change for C<>de
+
 FTLocationSimulator allows simulating Core Location in the iPhone simulator on the desktop. It sends fake Core Location updates taken from a KML file that describes a predefined route.
 
 Besides the simulated Core Location updates, it also updates the blue userLocation view on MapKit views.
